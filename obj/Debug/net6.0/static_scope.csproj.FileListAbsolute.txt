@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\static_scope\bin\Debug\net6.0\static_scope.exe
+C:\Users\TRA\Desktop\code-TRA\static_scope\bin\Debug\net6.0\static_scope.deps.json
+C:\Users\TRA\Desktop\code-TRA\static_scope\bin\Debug\net6.0\static_scope.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\static_scope\bin\Debug\net6.0\static_scope.dll
+C:\Users\TRA\Desktop\code-TRA\static_scope\bin\Debug\net6.0\static_scope.pdb
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.dll
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\refint\static_scope.dll
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.pdb
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\static_scope.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\static_scope\obj\Debug\net6.0\ref\static_scope.dll
