@@ -2,11 +2,11 @@
 {
     private static void Main(string[] args)
     {
-        A anyName = new A(6*6);
+        A anyName = new A(6);
         anyName.getDoubleNumberofWheels();
         Console.WriteLine(A.someNumber);
 
-        A anyValue = new A((6+1));
+        A anyValue = new A(6);
         anyValue.getDoubleNumberofWheels();
         Console.WriteLine(A.someNumber);
 
