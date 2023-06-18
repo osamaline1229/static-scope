@@ -17,9 +17,9 @@ internal class A
 
     public int getDoubleNumberofWheels()
     {
-        someNumber = someNumber * 10;
+        someNumber = someNumber * 5;
 
-        return numberofWheels * 2;
+        return numberofWheels * 3;
     }
 
 
